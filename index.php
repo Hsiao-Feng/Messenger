@@ -46,7 +46,7 @@
         <footer class="py-3 my-4">
             <ul class="nav justify-content-center border-bottom pb-3 mb-3">
                 <li class="nav-item"><a href="https://github.com/Hsiao-Feng" class="nav-link px-2 text-muted">Author</a></li>
-                <li class="nav-item"><a href="https://github.com/Hsiao-Feng/Messager" class="nav-link px-2 text-muted">Source</a></li>
+                <li class="nav-item"><a href="https://github.com/Hsiao-Feng/Messenger" class="nav-link px-2 text-muted">Source</a></li>
             </ul>
             <p class="text-center text-muted">© 2022 Designed by Hsiao Feng</p>
         </footer>
